@@ -1,19 +1,12 @@
 {
   "name": "cordova-plugin-file-opener",
   "version": "1.0.0",
-  "description": "This plugin allows you to open files in Android.",
+  "description": "FileOpener plugin for Cordova 3 =============",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sigmify/FileOpener.git"
-  },
-  "author": "bisil <mobiledev@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Sigmify/FileOpener/issues"
-  },
-  "homepage": "https://github.com/Sigmify/FileOpener/#readme"
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
 }
